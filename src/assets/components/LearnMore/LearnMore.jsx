@@ -9,7 +9,7 @@ const LearnMore = () => {
                 <div className="w-full text-center md:text-start md:w-[35%] bg-c1 md:py-[100px] md:px-[70px] py-[70px] px-[30px]">
                     <h2 className='md:text-[36px] text-w font-bold font-pop'>Learn more about our company</h2>
                 </div>
-                <div className="w-full text-center md:text-start md:w-[65%] bg-[url(./banner2.png)] bg-cover bg-center md:py-[100px] md:px-[70px] py-[70px] px-[70px] flex items-center justify-center">
+                <div className="w-full text-center md:text-start md:w-[65%] bg-learnBg bg-cover bg-center md:py-[100px] md:px-[70px] py-[70px] px-[70px] flex items-center justify-center">
                     <a className='text-c1 md:text-[16px] text-[12px] font-semibold font-pop py-[10px] px-[30px] bg-w uppercase hover:bg-b hover:text-w transition duration-300 ease-linear' href="#">Learn more</a>
                 </div>
             </div>

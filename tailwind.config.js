@@ -17,6 +17,16 @@ export default {
         'b': '#000',
         'pera': '#6C6C6C',
         'c1': '#F40404'
+      },
+      backgroundImage: {
+        'bannerBg': 'url("/banner.png")',
+        'learnBg': 'url("/banner2.png")',
+        'ser1': 'url("/service1.png")',
+        'ser2': 'url("/service2.png")',
+        'ser3': 'url("/service2.png")',
+        'blog1': 'url("/blog1.png")',
+        'blog2': 'url("/blog2.png")',
+        'blog3': 'url("/blog3.png")',
       }
     },
   },
